@@ -38,7 +38,7 @@
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limyira)](https://github.com/limyira)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyira)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyira&layout=compact)
 </div>
   
 
