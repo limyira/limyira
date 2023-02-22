@@ -20,14 +20,13 @@
 <img src="https://img.shields.io/badge/Recoil-FA4454?style=plastic-square&logo=Recoil&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/React-19B6E7?style=plastic-square&logo=React&logoColor=white"/></a> &nbsp
-
+<img src="https://img.shields.io/badge/Typescript-blue?style=plastic-square&logo=Typescript&logoColor=white"/></a>&nbsp 
 
 </br>
 </br>
 <h5 align="center"><b>💡used at least once.. </b></h5>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/Typescript-blue?style=plastic-square&logo=Typescript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=plastic-square&logo=Netlify&logoColor=e6a070"/></a>&nbsp
 <img src="https://img.shields.io/badge/Heroku-430098?style=plastic-square&logo=Heroku&logoColor=white"/></a>&nbsp
@@ -35,11 +34,13 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic-square&logo=Redux&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
 </br>
+</br>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limyira)](https://github.com/limyira)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyira)
 </div>
-
+  
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&width=200)
