@@ -34,7 +34,11 @@
 <img src="https://img.shields.io/badge/Express-000000?style=plastic-square&logo=Express&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic-square&logo=Redux&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
+</br>
+<div align="center">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limyira)](https://github.com/limyira)
+</div>
 
 
 
