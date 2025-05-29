@@ -37,8 +37,8 @@
 </br>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github.com/limyira/github-stats-transparent/blob/output/generated/overview.svg?username=limyira)](https://github.com/limyira)
-![Top Langs](https://github.com/limyira/github-stats-transparent/blob/output/generated/languages.svg?username=limyira&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limyira&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limyira&layout=compact&theme=dracula)
 </div>
   
 
